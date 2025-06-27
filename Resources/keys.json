@@ -1,10 +1,12 @@
 {
   "ModernCTM_Header": {
     "en": "ModernCTM",
+    "fr": "ModernCTM",
     "it": "ModernCTM"
   },
   "ModernCTM_Toggle": {
     "en": "Enabled",
+    "fr": "Activé",
     "it": "Abilitato"
   }
 }
